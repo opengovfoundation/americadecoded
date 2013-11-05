@@ -1,5 +1,6 @@
 @import "variables";
 @import "mixins";
+@import "compass/utilities/color/contrast";
 
 h1{
 	text-align:center;
@@ -10,5 +11,11 @@ h2{
 #main{
 	.row:nth-child(even){
 		background-color:$row-color;
+		
+		@include set-header-color($row-color);
 	}
+}
+#main-nav{
+	width:100%;
+	z-index:1;
 }

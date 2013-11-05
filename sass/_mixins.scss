@@ -1,0 +1,9 @@
+@mixin set-header-color($background){
+	@if($background == #FFFFFF){
+		color: #000000
+	}
+	@else{
+		color: #FFFFFF;
+	}
+
+}
