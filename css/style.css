@@ -1,3 +1,14 @@
-#main .row:nth-child(even){
-	background-color:#63add0;
+/* line 4, ../sass/style.scss */
+h1 {
+  text-align: center;
+}
+
+/* line 7, ../sass/style.scss */
+h2 {
+  text-align: center;
+}
+
+/* line 11, ../sass/style.scss */
+#main .row:nth-child(even) {
+  background-color: #63add0;
 }

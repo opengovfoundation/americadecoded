@@ -1,0 +1,14 @@
+@import "variables";
+@import "mixins";
+
+h1{
+	text-align:center;
+}
+h2{
+	text-align:center;
+}
+#main{
+	.row:nth-child(even){
+		background-color:$row-color;
+	}
+}
