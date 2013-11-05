@@ -9,7 +9,7 @@
 					"place-name": 	"Virginia",
 					"place-state":	"VA",
 					"site-name":	"Virginia Decoded",
-					"link":			"http://vacode.org/",
+					"site-link":	"http://vacode.org/",
 					"created-by":	"Waldo Jaquith"
 				}
 			}
@@ -24,7 +24,7 @@
 					"place-name":	"Florida",
 					"place-state":	"FL",
 					"site-name":	"Sunshine Statutes",
-					"link":			"http://www.sunshinestatutes.com",
+					"site-link":	"http://www.sunshinestatutes.com",
 					"created-by":	"Florida Society of News Editors and First Amendment Foundation"
 				}
 			}
@@ -39,7 +39,7 @@
 					"place-name":	"Maryland",
 					"place-state":	"MD",
 					"site-name":	"Maryland Decoded",
-					"link":			"http://www.marylandcode.org",
+					"site-link":	"http://www.marylandcode.org",
 					"created-by":	"The OpenGov Foundation"
 				}
 			}
@@ -54,7 +54,7 @@
 					"place-name":	"Chicago",
 					"place-state":	"IL",
 					"site-name":	"Chicago Decoded",
-					"link":			"http://chicagocode.org",
+					"site-link":	"http://chicagocode.org",
 					"created-by":	"The OpenGov Foundation"
 				}
 			}
@@ -69,7 +69,7 @@
 					"place-name":	"San Francisco",
 					"place-state":	"CA",
 					"site-name":	"San Francisco Decoded",
-					"link":			"http://sanfranciscocode.org",
+					"site-link":	"http://sanfranciscocode.org",
 					"created-by":	"The OpenGov Foundation"
 				}
 			}
@@ -84,7 +84,7 @@
 					"place-name":	"Philadelphia",
 					"place-state":	"PA",
 					"site-name":	"Philadelphia Decoded",
-					"link":			"http://phillycode.org",
+					"site-link":	"http://phillycode.org",
 					"created-by":	"The OpenGov Foundation"
 				}
 			}

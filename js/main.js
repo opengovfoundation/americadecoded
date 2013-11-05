@@ -14,7 +14,7 @@ $(document).ready(function(){
 		instances = data.features;
 
 		$.each(instances, function(){
-			map.plot(this.geometry.coordinates[0], this.geometry.coordinates[1], this.geometry.properties["site-name"]);
+			map.plot(this.geometry.coordinates[0], this.geometry.coordinates[1], this.geometry.properties["site-name"], this.geometry.properties["site-link"]);
 			map.darkenState(this.geometry.properties["place-state"], .1);
 		});
 	});
